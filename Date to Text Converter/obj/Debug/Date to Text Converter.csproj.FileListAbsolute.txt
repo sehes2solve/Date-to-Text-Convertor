@@ -1,0 +1,18 @@
+c:\users\pc\documents\visual studio 2015\Projects\Date to Text Converter\Date to Text Converter\bin\Debug\Date to Text Converter.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\Date to Text Converter\Date to Text Converter\bin\Debug\Date to Text Converter.exe
+c:\users\pc\documents\visual studio 2015\Projects\Date to Text Converter\Date to Text Converter\bin\Debug\Date to Text Converter.pdb
+c:\users\pc\documents\visual studio 2015\Projects\Date to Text Converter\Date to Text Converter\obj\Debug\Date to Text Converter.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\Date to Text Converter\Date to Text Converter\obj\Debug\Date_to_Text_Converter.Form1.resources
+c:\users\pc\documents\visual studio 2015\Projects\Date to Text Converter\Date to Text Converter\obj\Debug\Date_to_Text_Converter.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2015\Projects\Date to Text Converter\Date to Text Converter\obj\Debug\Date to Text Converter.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2015\Projects\Date to Text Converter\Date to Text Converter\obj\Debug\Date to Text Converter.exe
+c:\users\pc\documents\visual studio 2015\Projects\Date to Text Converter\Date to Text Converter\obj\Debug\Date to Text Converter.pdb
+C:\Users\pc\Desktop\Date to Text Converter\Date to Text Converter\bin\Debug\Date to Text Converter.exe.config
+C:\Users\pc\Desktop\Date to Text Converter\Date to Text Converter\obj\Debug\Date to Text Converter.exe
+C:\Users\pc\Desktop\Date to Text Converter\Date to Text Converter\obj\Debug\Date to Text Converter.pdb
+C:\Users\pc\Desktop\Date to Text Converter\Date to Text Converter\obj\Debug\Date to Text Converter.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\Date to Text Converter\Date to Text Converter\obj\Debug\Date_to_Text_Converter.Properties.Resources.resources
+C:\Users\pc\Desktop\Date to Text Converter\Date to Text Converter\obj\Debug\Date to Text Converter.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\Date to Text Converter\Date to Text Converter\bin\Debug\Date to Text Converter.exe
+C:\Users\pc\Desktop\Date to Text Converter\Date to Text Converter\bin\Debug\Date to Text Converter.pdb
+C:\Users\pc\Desktop\Date to Text Converter\Date to Text Converter\obj\Debug\Date_to_Text_Converter.Form.resources
